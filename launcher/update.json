@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "2.7.4",
-  "fileName": "giaodientv-v2.7.4.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/giaodientv/main/launcher/giaodientv-v2.7.4.apk",
-  "sha256": "5e07746485b337344d5f89b589eaf161b8469c58bf92163af96b496786c138dd",
-  "notes": "Sửa OTA: mở trình cài đặt khi Android yêu cầu xác nhận; 5 link Google Photos có tên album."
+  "versionCode": 13,
+  "versionName": "2.7.5",
+  "fileName": "giaodientv-v2.7.5.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/giaodientv/main/launcher/giaodientv-v2.7.5.apk",
+  "sha256": "6715be0d42a2c0723dbaf972c8a61eb236f763f79a35373a7ae2065718a9f948",
+  "notes": "Tên album Google Photos tự lấy từ trang album, không cần nhập tay; cập nhật OTA."
 }
